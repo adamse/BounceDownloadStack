@@ -1,7 +1,7 @@
 TBounceDownloadStack
 v7
 r0
-t276028983.674064
+t276029738.066269
 cCheck dependencies
 cProcessPCH /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-cofqzwgilvbzcedmsrtwnshrqymd/BounceDownloadStack_Prefix.pch.gch BounceDownloadStack_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cProcessPCH /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-aehisnlcqomgwoffghnrnfgvmtui/BounceDownloadStack_Prefix.pch.gch BounceDownloadStack_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -36,9 +36,9 @@ t1247808459
 s11760720
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m
-c000000004AC3A6AD00000000000001FC
-t1254336173
-s508
+c000000004AC3A8FE0000000000000168
+t1254336766
+s360
 i<Foundation/Foundation.h>
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack_Prefix.pch
@@ -48,50 +48,50 @@ s180
 i<Foundation/Foundation.h>
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack
-t1254336183
-s13352
+t1254336937
+s13304
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.LinkFileList
-c000000004AC3A6AE00000000000000A2
-t1254336174
+c000000004AC3A9A900000000000000A2
+t1254336937
 s162
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.o
-t1254336182
-s7196
+t1254336937
+s7084
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack
-t1254336183
-s13124
+t1254336938
+s13084
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.LinkFileList
-c000000004AC3A6AE00000000000000A1
-t1254336174
+c000000004AC3A9A900000000000000A1
+t1254336937
 s161
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.o
-t1254336183
-s7512
+t1254336937
+s7376
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack
-t1254336183
-s9528
+t1254336937
+s9472
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.LinkFileList
-c000000004AC3A6AE00000000000000A4
-t1254336174
+c000000004AC3A9A900000000000000A4
+t1254336937
 s164
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.o
-t1254336182
-s8672
+t1254336937
+s8596
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack
-t1254336183
-s45892
+t1254336938
+s45852
 
 N/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack.dSYM
-t1254336183
+t1254336938
 s102
 
 N/var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-aehisnlcqomgwoffghnrnfgvmtui/BounceDownloadStack_Prefix.pch.gch
@@ -108,11 +108,11 @@ s40069904
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies276028974#276028974#0(0"0(0#1#0"7959953205950115840#0"0#
+lSLF07#2@18"Check dependencies276029737#276029737#0(0"0(0#1#0"4300882208#0"0#
 
 CCompileC build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.o /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s276028982.641684
-e276028982.842626
+s276029737.207876
+e276029737.556356
 r1
 xCompileC
 xbuild/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.o
@@ -121,13 +121,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m: In function 'main':
-o/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m:7: warning: unused variable 'args'
-lSLF07#2@83"Compile /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276028982#276028982#0(208"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m: In function 'main':/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m:7: warning: unused variable 'args'1(22@22"Unused variable 'args'276028982#97#111#0(6@75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276028973#7#0#7#0#19"unused variable '*'0(0#0#75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m4300882208#1915"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-generated-files.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-own-target-headers.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-all-target-headers.hmap -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-project-headers.hmap -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -I/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/include -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources/i386 -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources -include /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-aehisnlcqomgwoffghnrnfgvmtui/BounceDownloadStack_Prefix.pch -c /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.o0#
+lSLF07#2@83"Compile /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276029737#276029737#0(0"0(0#0#75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m4300882208#1915"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-generated-files.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-own-target-headers.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-all-target-headers.hmap -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-project-headers.hmap -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -I/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/include -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources/i386 -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources -include /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-aehisnlcqomgwoffghnrnfgvmtui/BounceDownloadStack_Prefix.pch -c /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.o0#
 
 CCompileC build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.o /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m normal ppc objective-c com.apple.compilers.gcc.4_2
-s276028983.085158
-e276028983.351936
+s276029737.718197
+e276029737.987172
 r1
 xCompileC
 xbuild/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.o
@@ -136,13 +134,11 @@ xnormal
 xppc
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m: In function 'main':
-o/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m:7: warning: unused variable 'args'
-lSLF07#2@83"Compile /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276028983#276028983#0(208"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m: In function 'main':/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m:7: warning: unused variable 'args'1(22@22"Unused variable 'args'276028983#97#111#0(6@75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276028973#7#0#7#0#19"unused variable '*'0(0#0#75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m4300882208#1909"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-generated-files.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-own-target-headers.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-all-target-headers.hmap -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-project-headers.hmap -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -I/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/include -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources/ppc -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources -include /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-bhoehfanymisnwgyxbxotpvlgtmk/BounceDownloadStack_Prefix.pch -c /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.o0#
+lSLF07#2@83"Compile /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276029737#276029737#0(0"0(0#0#75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m4300882208#1909"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-generated-files.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-own-target-headers.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-all-target-headers.hmap -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-project-headers.hmap -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -I/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/include -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources/ppc -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources -include /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-bhoehfanymisnwgyxbxotpvlgtmk/BounceDownloadStack_Prefix.pch -c /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.o0#
 
 CCompileC build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.o /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s276028982.639827
-e276028982.841228
+s276029737.203270
+e276029737.509624
 r1
 xCompileC
 xbuild/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.o
@@ -151,58 +147,56 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m: In function 'main':
-o/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m:7: warning: unused variable 'args'
-lSLF07#2@83"Compile /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276028982#276028982#0(208"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m: In function 'main':/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m:7: warning: unused variable 'args'1(22@22"Unused variable 'args'276028982#97#111#0(6@75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276028973#7#0#7#0#19"unused variable '*'0(0#0#75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m4300882208#1921"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-generated-files.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-own-target-headers.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-all-target-headers.hmap -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-project-headers.hmap -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -I/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/include -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources/x86_64 -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources -include /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-cofqzwgilvbzcedmsrtwnshrqymd/BounceDownloadStack_Prefix.pch -c /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.o0#
+lSLF07#2@83"Compile /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m276029737#276029737#0(0"0(0#0#75"/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m4300882208#1921"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-generated-files.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-own-target-headers.hmap -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-all-target-headers.hmap -iquote /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/BounceDownloadStack-project-headers.hmap -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -I/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/include -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources/x86_64 -I/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/DerivedSources -include /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-cofqzwgilvbzcedmsrtwnshrqymd/BounceDownloadStack_Prefix.pch -c /Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.m -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.o0#
 
 CCreateUniversalBinary /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack normal "x86_64 i386 ppc"
-s276028983.523466
-e276028983.553560
+s276029738.010601
+e276029738.014331
 r1
 xCreateUniversalBinary
 x/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack
 xnormal
 xx86_64 i386 ppc
-lSLF07#2@80"CreateUniversalBinary build/Release/BounceDownloadStack normal "x86_64 i386 ppc"276028983#276028983#0(0"0(0#0#69"/Users/adam/Documents/Programming/BounceDownloadStack/x86_64 i386 ppc4300882208#664"    cd /Users/adam/Documents/Programming/BounceDownloadStack    /usr/bin/lipo -create /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack -output /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack0#
+lSLF07#2@80"CreateUniversalBinary build/Release/BounceDownloadStack normal "x86_64 i386 ppc"276029738#276029738#0(0"0(0#0#69"/Users/adam/Documents/Programming/BounceDownloadStack/x86_64 i386 ppc4300882208#664"    cd /Users/adam/Documents/Programming/BounceDownloadStack    /usr/bin/lipo -create /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack -output /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack0#
 
 CGenerateDSYMFile /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack.dSYM /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack
-s276028983.553667
-e276028983.673981
+s276029738.014433
+e276029738.066206
 r1
 xGenerateDSYMFile
 x/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack.dSYM
 x/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack
-lSLF07#2@89"GenerateDSYMFile build/Release/BounceDownloadStack.dSYM build/Release/BounceDownloadStack276028983#276028983#0(0"0(0#0#87"/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack4300882208#277"    cd /Users/adam/Documents/Programming/BounceDownloadStack    /Developer/usr/bin/dsymutil /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack -o /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack.dSYM0#
+lSLF07#2@89"GenerateDSYMFile build/Release/BounceDownloadStack.dSYM build/Release/BounceDownloadStack276029738#276029738#0(0"0(0#0#87"/Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack4300882208#277"    cd /Users/adam/Documents/Programming/BounceDownloadStack    /Developer/usr/bin/dsymutil /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack -o /Users/adam/Documents/Programming/BounceDownloadStack/build/Release/BounceDownloadStack.dSYM0#
 
 CLd /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack normal i386
-s276028982.842709
-e276028983.222830
+s276029737.556516
+e276029737.718081
 r1
 xLd
 x/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack
 xnormal
 xi386
-lSLF07#2@164"Link /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack276028982#276028983#0(0"0(0#0#0"4300882208#719"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -filelist /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack0#
+lSLF07#2@164"Link /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack276029737#276029737#0(0"0(0#0#0"4300882208#719"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -filelist /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/i386/BounceDownloadStack0#
 
 CLd /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack normal ppc
-s276028983.352033
-e276028983.523352
+s276029737.987323
+e276029738.010479
 r1
 xLd
 x/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack
 xnormal
 xppc
-lSLF07#2@163"Link /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack276028983#276028983#0(0"0(0#0#0"4300882208#716"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -filelist /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack0#
+lSLF07#2@163"Link /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack276029737#276029738#0(0"0(0#0#0"4300882208#716"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -filelist /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/ppc/BounceDownloadStack0#
 
 CLd /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack normal x86_64
-s276028982.841340
-e276028983.085040
+s276029737.509724
+e276029737.719929
 r1
 xLd
 x/Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack
 xnormal
 xx86_64
-lSLF07#2@166"Link /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack276028982#276028983#0(0"0(0#0#0"4300882208#725"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -filelist /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack0#
+lSLF07#2@166"Link /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack276029737#276029737#0(0"0(0#0#0"4300882208#725"    cd /Users/adam/Documents/Programming/BounceDownloadStack    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -F/Users/adam/Documents/Programming/BounceDownloadStack/build/Release -filelist /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/adam/Documents/Programming/BounceDownloadStack/build/BounceDownloadStack.build/Release/BounceDownloadStack.build/Objects-normal/x86_64/BounceDownloadStack0#
 
 CProcessPCH /var/folders/M7/M79F104BHu0Iu+Nauxh2r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceDownloadStack_Prefix-aehisnlcqomgwoffghnrnfgvmtui/BounceDownloadStack_Prefix.pch.gch BounceDownloadStack_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s276028974.223839
