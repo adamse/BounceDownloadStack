@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 66EB9D841073DADB0096C793 /* BounceDownloadStack */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* BounceDownloadStack */;
+		codeSenseManager = 66EB9D901073DADD0096C793 /* Code sense */;
+		executables = (
+			66EB9D841073DADB0096C793 /* BounceDownloadStack */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 276028123;
+			PBXWorkspaceStateSaveDate = 276028123;
+		};
+		perUserProjectItems = {
+			66EB9D911073DAF60096C793 /* PBXBookmark */ = 66EB9D911073DAF60096C793 /* PBXBookmark */;
+			66EB9D9E1073DD060096C793 /* PBXTextBookmark */ = 66EB9D9E1073DD060096C793 /* PBXTextBookmark */;
+			66EB9D9F1073DD060096C793 /* PBXTextBookmark */ = 66EB9D9F1073DD060096C793 /* PBXTextBookmark */;
+			66EB9DA21073DD060096C793 /* PBXTextBookmark */ = 66EB9DA21073DD060096C793 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 66EB9D8F1073DADD0096C793 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* BounceDownloadStack.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 446}";
+			sepNavWindowFrame = "{{142, 4}, {973, 774}}";
+		};
+	};
+	66EB9D841073DADB0096C793 /* BounceDownloadStack */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BounceDownloadStack;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	66EB9D8F1073DADD0096C793 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	66EB9D901073DADD0096C793 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	66EB9D911073DAF60096C793 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* BounceDownloadStack.m */;
+	};
+	66EB9D9E1073DD060096C793 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* BounceDownloadStack.m */;
+		name = "BounceDownloadStack.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	66EB9D9F1073DD060096C793 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* BounceDownloadStack.m */;
+		name = "BounceDownloadStack.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	66EB9DA21073DD060096C793 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* BounceDownloadStack.m */;
+		name = "BounceDownloadStack.m: 9";
+		rLen = 0;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* BounceDownloadStack */ = {
+		activeExec = 0;
+		executables = (
+			66EB9D841073DADB0096C793 /* BounceDownloadStack */,
+		);
+	};
+}
