@@ -216,10 +216,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>66E11C181073E25900D04DB7</string>
+						<string>66E11C341073E7BB00D04DB7</string>
 						<key>history</key>
 						<array>
-							<string>66E11C081073E15C00D04DB7</string>
+							<string>66E11C221073E45000D04DB7</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -270,8 +270,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -307,7 +305,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>08FB7794FE84155DC02AAC07</string>
-								<string>1AB674ADFE9D54B511CA2CBB</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>66E11C111073E25900D04DB7</string>
 								<string>66E11C121073E25900D04DB7</string>
@@ -317,9 +314,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>12</integer>
-									<integer>7</integer>
-									<integer>6</integer>
+									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -358,7 +353,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>BounceDownloadStack.1</string>
+								<string>BounceDownloadStack.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -366,15 +361,15 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>BounceDownloadStack.1</string>
+										<string>BounceDownloadStack.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>66E11C151073E25900D04DB7</string>
+										<string>66E11C331073E7BB00D04DB7</string>
 										<key>history</key>
 										<array>
-											<string>66E11C131073E25900D04DB7</string>
-											<string>66E11C141073E25900D04DB7</string>
+											<string>66E11C1F1073E45000D04DB7</string>
+											<string>66E11C2A1073E6C900D04DB7</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -396,6 +391,8 @@
 							<string>269pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -577,8 +574,8 @@
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>66EB9D8D1073DADD0096C793</string>
-		<string>66E11C161073E25900D04DB7</string>
 		<string>/Users/adam/Documents/Programming/BounceDownloadStack/BounceDownloadStack.xcodeproj</string>
+		<string>66E11C161073E25900D04DB7</string>
 	</array>
 	<key>WindowString</key>
 	<string>217 263 788 504 0 0 1280 778 </string>
