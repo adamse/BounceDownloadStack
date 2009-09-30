@@ -1,0 +1,3 @@
+The only thing this program does is to bounce the "Downloads" stack in your Dock.
+Usage:
+	BounceDownloadStack path to file
