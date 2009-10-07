@@ -1,6 +1,10 @@
 The only thing this program does is to bounce the "Downloads" stack in your Dock.
+Edit: It actually works with any file that is inside a stack, but the file can't live inside a subfolder.
+
 
 I intend to use it to make rtorrent bounce the "Downloads" stack when a torrent has been finished.
 
 Usage:
 	BounceDownloadStack path to file
+
+If something seems wrong, just contact me or comment or something :)

@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
 int main (int argc, const char * argv[]) {
-    NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
+	NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
 	
 	NSMutableArray * args = [NSMutableArray arrayWithArray:[[NSProcessInfo processInfo] arguments]];
 	
@@ -12,6 +12,6 @@ int main (int argc, const char * argv[]) {
 		 object:[args componentsJoinedByString:@" "]];
 	}
 
-    [pool drain];
-    return 0;
+	[pool drain];
+	return 0;
 }
