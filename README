@@ -1,10 +1,10 @@
-The only thing this program does is to bounce the "Downloads" stack in your Dock.
-Edit: It actually works with any file that is inside a stack, but the file can't live inside a subfolder.
+This command line tool will make a stack in you OS X Dock bounce. My intended usage was to bounce the Downloads stack when a rtorrent download had finished, but I can imagine that it has other uses as well.
 
+All credit goes to http://iloveco.de/quick-trick-bouncing-the-downloads-stack/ for the code.
 
-I intend to use it to make rtorrent bounce the "Downloads" stack when a torrent has been finished.
+Download binary here: http://cloud.github.com/downloads/fppzdd/BounceDownloadStack/BounceDownloadStack.zip
 
-Usage:
-	BounceDownloadStack path to file
+Usage: BounceDownloadStack path
+  path: must be an object in the toplevel of the stack folder
 
-If something seems wrong, just contact me or comment or something :)
+If something seems wrong, just contact me, comment or do something else :)

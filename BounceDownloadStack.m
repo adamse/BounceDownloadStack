@@ -10,6 +10,9 @@ int main (int argc, const char * argv[]) {
 		[[NSDistributedNotificationCenter defaultCenter]
 		 postNotificationName:@"com.apple.DownloadFileFinished" 
 		 object:[args componentsJoinedByString:@" "]];
+	} else {
+		printf("Usage: %s path\n", argv[0]);
+		printf("  path: must be an object in the toplevel of the stack folder\n");
 	}
 
 	[pool drain];
