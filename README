@@ -2,9 +2,5 @@ This command line tool will make a stack in you OS X Dock bounce. My intended us
 
 All credit goes to http://iloveco.de/quick-trick-bouncing-the-downloads-stack/ for the code.
 
-Download universal binary here: http://cloud.github.com/downloads/fppzdd/BounceDownloadStack/BounceDownloadStack.zip
-
 Usage: BounceDownloadStack path
   path: must be an object in the toplevel of the stack folder
-
-If something seems wrong, just contact me, comment or do something else :)
